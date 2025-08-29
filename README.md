@@ -5,6 +5,8 @@
 ## Project Vision
 SurveyWeb is an open-source initiative designed to help local governments, NGOs, and research institutions collect, visualize, and interpret data on socio-economic and infrastructure issues—down to the village, town, or district level—from multiple sources (field surveys, social media, community feedback, remote sensing). It aims to transform raw input into actionable reports that inform policy-making, manifesto formation, and development planning.
 
+See [`VISION.md`](VISION.md) for details and ideas for implementation.
+
 ## Use Cases
 - **Assess infrastructure gaps** (e.g., sanitation, roads)
 - **Capture citizen feedback** on public services
@@ -27,6 +29,12 @@ SurveyWeb is an open-source initiative designed to help local governments, NGOs,
 2. Prototype Development  
 3. Pilot Deployment with Stakeholders  
 4. Iterative Refinement
+
+## Status
+
+- No active development.
+- No working code—currently a concept and planning space.
+- Open to collaboration or handoff!
 
 ## How You Can Help
 - Review our vision and provide feedback  
