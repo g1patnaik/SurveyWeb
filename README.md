@@ -1,41 +1,39 @@
-# SurveyWeb (Concept Stage — Not Under Active Development)
+# SurveyWeb
 
-> This repository contains an idea for a tool to collect and visualize statistics about social and infrastructure issues in various regions, intended to empower NGOs, local governments, and communities.
-> 
-> **No code has been developed yet.**  
-> If you are interested in collaborating or building on this project, feel free to open an issue or reach out!
-
----
+**A community-driven research platform that empowers policymakers and NGOs with granular, data-informed insights.**
 
 ## Project Vision
+SurveyWeb is an open-source initiative designed to help local governments, NGOs, and research institutions collect, visualize, and interpret data on socio-economic and infrastructure issues—down to the village, town, or district level—from multiple sources (field surveys, social media, community feedback, remote sensing). It aims to transform raw input into actionable reports that inform policy-making, manifesto formation, and development planning.
 
-SurveyWeb aims to provide a flexible, open-source platform for collecting, mapping, and interpreting issue data (like problems or opportunities) at granular levels (village, town, district, etc.), from multiple sources (field surveys, social web, etc.).
+## Use Cases
+- **Assess infrastructure gaps** (e.g., sanitation, roads)
+- **Capture citizen feedback** on public services
+- **Monitor intervention outcomes** over time
 
-See [`VISION.md`](VISION.md) for details and ideas for implementation.
+## Key Features (Envisioned)
+- Multi-source data ingestion
+- Geospatial mapping and dashboards
+- Report generation tailored to NGOs and policymakers
+- Secure, privacy-conscious collaboration tools
+- Export options (CSV, PDF)
 
----
+## Target Users
+- Local governments & policy planners
+- NGOs and development agencies
+- Research organizations & advocacy groups
 
-## Status
-
-- No active development.
-- No working code—currently a concept and planning space.
-- Open to collaboration or handoff!
-
----
+## Roadmap
+1. Concept & Use Case Gathering  
+2. Prototype Development  
+3. Pilot Deployment with Stakeholders  
+4. Iterative Refinement
 
 ## How You Can Help
-
-- Review the vision and contribute suggestions.
-- Propose architectures, designs, or technology stacks.
-- Help with prototyping or project management.
-- Share use cases or connect with potential users.
-
----
-
-## License
-
-MIT
+- Review our vision and provide feedback  
+- Share use cases or real-world challenges  
+- Propose technical architecture or collaborate on prototyping  
+- Join early pilot testing
 
 ---
 
-If you are interested in contributing or reviving this project, please create an issue or contact the owner.
+Thank you for contributing to a platform that bridges data with social impact!
